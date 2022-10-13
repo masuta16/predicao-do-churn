@@ -14,7 +14,8 @@ vamos explicar:
 #O que seria Churn?
 
 Churn em uma frase é quando algum cliente ou empresa cancela um determinado produto.
-#Quando o Churn ocorre?
+
+ - Quando o Churn ocorre?
 
 #O Churn ocorre na maioria dos casos nessas situações:
 
