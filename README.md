@@ -1,7 +1,7 @@
 # Como prever o Churn em qualquer situação
 
 Muitas pessoas tem feito analise de dados em sistemas integrados e compartilhado muitos notebooks no Kaggle informando como fazer a predição do Churn ao utilizar metodos estatísticos, mas seria esta a forma correta de prever o Churn?
-![Alt Text](https://giphy.com/gifs/theoffice-the-office-episode-24-tv-Yycc82XEuWDaLLi2GV)
+![Alt Text](https://giphy.com/gifs/theoffice-the-office-episode-24-tv-Yycc82XEuWDaLLi2GV](https://media2.giphy.com/media/Yycc82XEuWDaLLi2GV/giphy.gif)
 
 Certamente não!
 Mas primeiro …
