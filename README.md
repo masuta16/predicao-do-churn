@@ -39,3 +39,7 @@ Então se voce é empresario e acha que vai conseguir prever o Churn de algum cl
 
 - E isso é tudo pessoal, qualquer coisa só entrar em contato!
 
+![Alt Text](https://64.media.tumblr.com/f5436f265630043b4163b3b796436229/tumblr_nerv5zwzCr1sgl0ajo1_500.gifv)
+
+
+
