@@ -17,6 +17,7 @@ Churn em uma frase é quando algum cliente ou empresa cancela um determinado pro
 #Quando o Churn ocorre?
 
 #O Churn ocorre na maioria dos casos nessas situações:
+
 #Porque o cliente quis
 
  Normalmente isso estaria atrelado a qualidade ou preço do serviço
