@@ -6,7 +6,7 @@ Muitas pessoas tem feito analise de dados em sistemas integrados e compartilhado
 
 Certamente não!
 Mas primeiro …
-![Alt Text](https://media2.giphy.com/media/Yycc82XEuWDaLLi2GV/giphy.gif](https://2.bp.blogspot.com/-LUbTcB23dZ8/UHiAhJcT3UI/AAAAAAAABBw/W3rIdfhgdeI/s1600/tumblr_ma5etb3nWU1r9wkfwo8_250.gif)
+![Alt Text](https://2.bp.blogspot.com/-LUbTcB23dZ8/UHiAhJcT3UI/AAAAAAAABBw/W3rIdfhgdeI/s1600/tumblr_ma5etb3nWU1r9wkfwo8_250.gif)
 vamos explicar:
 O que seria Churn?
 
