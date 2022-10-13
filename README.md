@@ -35,5 +35,6 @@ Churn em uma frase é quando algum cliente ou empresa cancela um determinado pro
 Então se voce é empresario e acha que vai conseguir prever o Churn de algum cliente com uma base de dados que voce tem e só olhando os dados do comercio que voce possui pode tirar o cavalo da chuva porque isso é impossivel.
 
 A não ser que voce seja o poderoso chefão e controle todas as empresas de uma determinada região…
+![Alt Text](https://media3.giphy.com/media/z9EaObbaU7pS4zFl6d/giphy.gif?cid=790b76111013def52238af87a7c23d0f6dea9ad7de0e86f6&rid=giphy.gif)
 E isso é tudo pessoal, qualquer coisa só entrar em contato!
 
